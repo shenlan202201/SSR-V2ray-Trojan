@@ -29,7 +29,7 @@ Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版�
 3) 抄底套餐价格，机场主良心运营    
 4) 想要买不限制设备数目的也是首选机场      
 
-[灯塔网址导航] [https://jiebllu.serv00.net/index.html]
+[灯塔网址导航] https://jiebllu.serv00.net/index.html
 
 >开业时间：2024  
 老板肉身：墙外  
@@ -48,6 +48,7 @@ SSH端口屏蔽：22端口已屏蔽
 ipv6支持情况：香港、台湾、日本、美国部分节点支持    
 付款方式：支付宝、微信    
 TG频道：https://t.me/lhz2021
+>
 套餐是否包含手续费：（手续费7%）    
 只能中国内地使用：是，新疆无法使用
 小白一键客户端：win+mac       
@@ -69,7 +70,7 @@ TG频道：https://t.me/lhz2021
 200G/不限时|68
 200G/不限时|108
 
-[领航] [https://www.lingh.cfd]
+[领航] https://www.lingh.cfd
 
 >开业时间：2024  
 老板肉身：墙外  
@@ -87,7 +88,8 @@ SSH端口屏蔽：22端口已屏蔽
 落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、香港HGC    
 ipv6支持情况：香港、台湾、日本、美国部分节点支持    
 付款方式：支付宝、微信    
-TG频道：https://t.me/lhz2021
+TG频道：https://t.me/linghng2024
+>
 套餐是否包含手续费：（手续费7%）    
 只能中国内地使用：是，新疆无法使用
 小白一键客户端：win+mac       
