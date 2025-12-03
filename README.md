@@ -7,7 +7,6 @@ BGP高速机场【灯塔】：https://dengta.click
 老板肉身：墙外  
 节点数目： 20+      
 协议：Shadowsocks，Vless，Hy2
-
 不限制同时登录ip客户端数目 
 ChatGPT/OpenAI解锁    
 流媒体：基本支持奈飞和迪士尼        
