@@ -14,7 +14,6 @@ ChatGPT/OpenAI解锁
 流媒体：基本支持奈飞和迪士尼        
 地区：香港、台湾、新加坡、日本、美国、英国、韩国、印度     
 落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、香港HGC    
-ipv6支持情况：香港、台湾、日本、美国部分节点支持    
 付款方式：支付宝、微信    
 套餐是否包含手续费：（手续费7%）    
 支持区域：全球
